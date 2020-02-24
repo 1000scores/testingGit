@@ -15,5 +15,7 @@ class Post(models.Model):
         self.save()
         dffdfdfd
 
+        kkkk
+
     def __str__(self):
         return self.title
